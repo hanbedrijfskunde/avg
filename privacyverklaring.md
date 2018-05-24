@@ -24,7 +24,7 @@ Alleen direct betrokkenen bij het onderwijsproces hebben algemene toegang tot de
 * Door docenten aangewezen personen (bijv. studentassistenten)
 
 In sommige gevallen kan aan andere personen binnen de HAN toegang worden verleend. Deze persoon moet altijd worden aangewezen door de verwerkingsverantwoordelijke en het doel moet een directe relatie hebben met de onderwijsuitvoering en/of de controle hierop. De persoonsgegevens zullen op geen enkele wijze beschikbaar worden gesteld aan partijen bij de organisatie.
-<Auditproces ontwerpen>
+*Auditproces ontwerpen*
 
 ### Bewaartermijn van de gegevens.
 Binnen de HAN geldt een bewaartermijn van 2 jaar voor toetsmateriaal en dezelfde termijn wordt gehanteerd voor het materiaal dat binnen BKMoodle door een student wordt achtergelaten.
