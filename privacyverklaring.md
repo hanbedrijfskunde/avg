@@ -49,8 +49,8 @@ Voor deelname aan het studietraject en de bijbehorende modules is het noodzakeli
 De persoonsgegevens of andere data worden op geen enkele wijze gebruikt om studenten t.o.v. elkaar te vergelijken of te categoriseren. Het systeem neemt ook geen beslissingen en levert slechts informatie ter ondersteuning van het onderwijsproces.
 
 
-
------ Nota bene
+Nota bene
+-----
 Hoe zorgt u dat u privacyverklaring toegankelijk is?
 In de AVG staat dat u de informatie over uw verwerkingen in principe schriftelijk moet geven. De beste manier om er zeker van te zijn dat uw informatie voor de meeste mensen goed vindbaar is, is het publiceren van een online privacyverklaring.
 
