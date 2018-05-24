@@ -67,8 +67,8 @@ De informatie over de gegevensverwerking moet beknopt, transparant en begrijpeli
 
 Richt u zich tot kinderen onder de zestien jaar? Of weet u dat kinderen uw diensten veel gebruiken? Dan moet u de woordkeuze, toon en stijl van de informatie aanpassen. Zodat de kinderen weten dat deze informatie voor hen is bedoeld en ze de informatie kunnen begrijpen.
 
-Acties:
-
+Acties
+----
 * Bespreken met Danny
 * Inrichten functionaliteit:
    * Leeftijdscheck
