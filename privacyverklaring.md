@@ -5,7 +5,7 @@ Inspiratie: [Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl/
 ### Identiteit en contactgegevens verwerkingsverantwoordelijke
 *Contactgegevens van de FG : Bespreken met Danny*
 
-### De doeleinden en rechtsgrond van de verwerking.
+### Doeleinden en rechtsgrond van verwerking.
 De door de student verschafte persoonsgegevens dienen uitsluitend ter registratie van:
 
 * zijn/haar activiteiten binnen leertrajecten (bijv. lesmodules en projecten),
