@@ -23,7 +23,7 @@ Alleen direct betrokkenen bij het onderwijsproces hebben algemene toegang tot de
 * Studieloopbaanbegeleiders
 * Door docenten aangewezen personen (bijv. studentassistenten)
 
-In sommige gevallen kan aan andere personen binnen de HAN toegang worden verleend. Deze persoon moet altijd worden aangewezen door de verwerkingsverantwoordelijke en het doel moet een directe relatie hebben met de onderwijsuitvoering en/of de controle hierop. De persoonsgegevens zullen op geen enkele wijze beschikbaar worden gesteld aan partijen bij de organisatie.
+In sommige gevallen kan aan een andere persoon toegang worden verleend. Deze persoon moet altijd worden aangewezen door de verwerkingsverantwoordelijke en het doel moet een directe relatie hebben met de onderwijsuitvoering en/of de controle hierop. De persoonsgegevens zullen op geen enkele wijze beschikbaar worden gesteld aan partijen bij de organisatie.
 *Auditproces ontwerpen*
 
 ### Bewaartermijn van de gegevens.
