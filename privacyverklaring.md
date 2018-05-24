@@ -3,7 +3,7 @@ Inspiratie:[Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl/n
 ## Privacyverklaring opleiding HAN Bedrijfskunde
 
 ### Identiteit en contactgegevens verwerkingsverantwoordelijke
-<De contactgegevens van de FG : Bespreken met Danny>
+*Contactgegevens van de FG : Bespreken met Danny*
 
 ### De doeleinden en rechtsgrond van de verwerking.
 De door de student verschafte persoonsgegevens dienen uitsluitend ter registratie van:
@@ -30,15 +30,15 @@ In sommige gevallen kan aan andere personen binnen de HAN toegang worden verleen
 Binnen de HAN geldt een bewaartermijn van 2 jaar voor toetsmateriaal en dezelfde termijn wordt gehanteerd voor het materiaal dat binnen BKMoodle door een student wordt achtergelaten.
 
 ### De rechten van de betrokkene
-<Rachid>
+*Rachid*
 
 
 ### Het recht van de betrokkene om de gegeven toestemming voor een bepaalde verwerking altijd in te kunnen trekken
-<Rachid>
+*Rachid*
 
 
 ### Klachtenprocedure
-<Rachid>
+*Rachid*
 
 
 ### Noodzaak gegevensverstrekking
