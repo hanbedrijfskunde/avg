@@ -66,3 +66,12 @@ Duidelijke taal
 De informatie over de gegevensverwerking moet beknopt, transparant en begrijpelijk zijn. Daarom moet u duidelijke en eenvoudige taal gebruiken. Dat betekent onder meer: wees kort en bondig, vermijd vaktermen en verplaats u in de lezer.
 
 Richt u zich tot kinderen onder de zestien jaar? Of weet u dat kinderen uw diensten veel gebruiken? Dan moet u de woordkeuze, toon en stijl van de informatie aanpassen. Zodat de kinderen weten dat deze informatie voor hen is bedoeld en ze de informatie kunnen begrijpen.
+
+Acties:
+
+* Bespreken met Danny
+* Inrichten functionaliteit:
+   * Leeftijdscheck
+   * User agreement to site policies (privacyverklaring)
+   * Data request & deletion
+* Voorleggen jurist (Wim de Ruijter?)
