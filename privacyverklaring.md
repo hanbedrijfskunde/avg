@@ -8,9 +8,9 @@ Inspiratie: [Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl/
 ### Doeleinden en rechtsgrond van verwerking.
 De door de student verschafte persoonsgegevens dienen uitsluitend ter registratie van:
 
-* zijn activiteiten binnen leertrajecten (bijv. lesmodules en projecten),
-* zijn studievoortgang,
-* zijn aangeleverde bewijzen t.b.v. toekenning cijfers en studiepunten
+* zijn activiteiten binnen leertrajecten (bijv. lesmodules en projecten);
+* zijn studievoortgang;
+* zijn aangeleverde bewijzen t.b.v. toekenning cijfers en studiepunten;
 
 en de communicatie hierover met de betreffende student.
 
