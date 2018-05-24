@@ -19,11 +19,13 @@ Alleen direct betrokkenen bij het onderwijsproces hebben algemene toegang tot de
 * Studieloopbaanbegeleiders
 * Door docenten aangewezen personen (bijv. studentassistenten)
 
-In sommige gevallen kan aan andere personen binnen de HAN toegang worden verleend. Deze persoon moet altijd worden aangewezen door de 
-verwerkingsverantwoordelijke en het doel moet een directe relatie hebben met de onderwijsuitvoering en/of de controle hierop.
+In sommige gevallen kan aan andere personen binnen de HAN toegang worden verleend. Deze persoon moet altijd worden aangewezen door de verwerkingsverantwoordelijke en het doel moet een directe relatie hebben met de onderwijsuitvoering en/of de controle hierop.
 
-Of u van plan bent de persoonsgegevens door te geven buiten de EU of een internationale organisatie en op welke juridische grond.
-De bewaartermijn van de gegevens.
+De persoonsgegevens zullen op geen enkele wijze beschikbaar worden gesteld aan partijen bij de organisatie.
+
+### Bewaartermijn van de gegevens.
+Binnen de HAN geldt een bewaartermijn van 2 jaar voor toetsmateriaal en dezelfde termijn wordt gehanteerd voor het materiaal dat binnen BKMoodle door een student wordt achtergelaten. Voor persoonsgegevens worden tevens dezelfde richtlijnen gevolgd als voor de HAN.
+
 De rechten van de betrokkene, zoals het recht op inzage, correctie en verwijdering. Zie ook stap 10.
 Het recht van de betrokkene om de gegeven toestemming voor een bepaalde verwerking altijd in te kunnen trekken.
 Dat de betrokkene een klacht kan indienen bij de relevante privacytoezichthouder.
