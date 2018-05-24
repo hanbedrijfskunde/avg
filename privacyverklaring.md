@@ -1,19 +1,16 @@
-Uit:[Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-nieuwe-europese-privacywetgeving/rechten-van-betrokkenen)
-
-## Gegevens verwerkingsverantwoordelijke
-<Bespreken met Danny>
+Inspiratie:[Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-nieuwe-europese-privacywetgeving/rechten-van-betrokkenen)
 
 ## Privacyverklaring opleiding HAN Bedrijfskunde
 
-De identiteit en de contactgegevens van de verwerkingsverantwoordelijke en, in voorkomend geval, van uw vertegenwoordiger in de EU;
-De contactgegevens van de FG als u die heeft.
+### Identiteit en contactgegevens verwerkingsverantwoordelijke
+<De contactgegevens van de FG >> Bespreken met Danny>
 
 ### De doeleinden en rechtsgrond van de verwerking.
 De door de student verschafte persoonsgegevens dienen uitsluitend ter registratie van:
 
 * zijn/haar activiteiten binnen leertrajecten (bijv. lesmodules en projecten),
 * zijn/haar studievoortgang,
-* zijn/haar aangeleverde bewijzen t.b.v. toegekende cijfers en  studiepunten
+* zijn/haar aangeleverde bewijzen t.b.v. toegekende cijfers en studiepunten
 
 en de communicatie hierover met de betreffende student.
 
@@ -26,20 +23,34 @@ Alleen direct betrokkenen bij het onderwijsproces hebben algemene toegang tot de
 * Studieloopbaanbegeleiders
 * Door docenten aangewezen personen (bijv. studentassistenten)
 
-In sommige gevallen kan aan andere personen binnen de HAN toegang worden verleend. Deze persoon moet altijd worden aangewezen door de verwerkingsverantwoordelijke en het doel moet een directe relatie hebben met de onderwijsuitvoering en/of de controle hierop.
-
-De persoonsgegevens zullen op geen enkele wijze beschikbaar worden gesteld aan partijen bij de organisatie.
+In sommige gevallen kan aan andere personen binnen de HAN toegang worden verleend. Deze persoon moet altijd worden aangewezen door de verwerkingsverantwoordelijke en het doel moet een directe relatie hebben met de onderwijsuitvoering en/of de controle hierop. De persoonsgegevens zullen op geen enkele wijze beschikbaar worden gesteld aan partijen bij de organisatie.
 <Auditproces ontwerpen>
 
 ### Bewaartermijn van de gegevens.
-Binnen de HAN geldt een bewaartermijn van 2 jaar voor toetsmateriaal en dezelfde termijn wordt gehanteerd voor het materiaal dat binnen BKMoodle door een student wordt achtergelaten. Voor persoonsgegevens worden tevens dezelfde richtlijnen gevolgd als voor de HAN.<Richtlijn uitzoeken en opnemen in audit>
+Binnen de HAN geldt een bewaartermijn van 2 jaar voor toetsmateriaal en dezelfde termijn wordt gehanteerd voor het materiaal dat binnen BKMoodle door een student wordt achtergelaten.
 
-De rechten van de betrokkene, zoals het recht op inzage, correctie en verwijdering. Zie ook stap 10.
-Het recht van de betrokkene om de gegeven toestemming voor een bepaalde verwerking altijd in te kunnen trekken.
-Dat de betrokkene een klacht kan indienen bij de relevante privacytoezichthouder.
-Of en waarom de betrokkene verplicht is de persoonsgegevens te verstrekken en wat de gevolgen zijn als de gegevens niet worden verstrekt.
-Of u gebruik maakt van geautomatiseerde besluitvorming, inclusief profilering, en hoe u besluiten neemt.
-Als de gegevens van een andere organisatie zijn verkregen: de bron waar de persoonsgegevens vandaan komen, en in voorkomend geval, of zij afkomstig zijn van openbare bronnen.
+### De rechten van de betrokkene
+<Rachid>
+
+
+### Het recht van de betrokkene om de gegeven toestemming voor een bepaalde verwerking altijd in te kunnen trekken
+<Rachid>
+
+
+### Klachtenprocedure
+<Rachid>
+
+
+### Noodzaak gegevensverstrekking
+Voor deelname aan het studietraject en de bijbehorende modules is het noodzakelijk dat een student zich aanmeldt in BKMoodle. Hiermee krijgt hij toegang tot studiemateriaal (bijvoorbeeld weblectures) en belangrijke online activiteiten (bijvoorbeeld kennistoetsen). Materiaal en activiteiten kunnen niet buiten BKMoodle om worden aangeboden, aangezien ze in veel gevallen een integraal onderdeel van het systeem zijn. Daarnaast vindt de registratie van behaalde resultaten binnen hetzelfde systeem plaats en wordt dit samen met de bijbehorende bewijslast opgeslagen. Dit vormt de basis voor de uiteindelijke toekenning van studiepunten.
+
+
+### Geautomatiseerde besluitvorming
+De persoonsgegevens of andere data worden op geen enkele wijze gebruikt om studenten t.o.v. elkaar te vergelijken of te categoriseren. Het systeem neemt ook geen beslissingen en levert slechts informatie ter ondersteuning van het onderwijsproces.
+
+
+
+----- Nota bene
 Hoe zorgt u dat u privacyverklaring toegankelijk is?
 In de AVG staat dat u de informatie over uw verwerkingen in principe schriftelijk moet geven. De beste manier om er zeker van te zijn dat uw informatie voor de meeste mensen goed vindbaar is, is het publiceren van een online privacyverklaring.
 
@@ -49,6 +60,8 @@ Tip: om de informatie in een (online) privacyverklaring zo toegankelijk mogelijk
 
 In de eerste laag geeft u kort aan wie de verantwoordelijke organisatie is, hoe die te bereiken is en welke gegevensverwerkingen de meeste impact hebben op de betrokken personen.
 In de tweede en derde laag van de privacyverklaring kunt u meer in detail aangeven welke persoonsgegevens u voor welk doel verwerkt en hoe mensen hun rechten kunnen uitoefenen.
+
+
 Duidelijke taal
 De informatie over de gegevensverwerking moet beknopt, transparant en begrijpelijk zijn. Daarom moet u duidelijke en eenvoudige taal gebruiken. Dat betekent onder meer: wees kort en bondig, vermijd vaktermen en verplaats u in de lezer.
 
