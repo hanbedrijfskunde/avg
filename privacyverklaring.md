@@ -1,4 +1,4 @@
-## Privacy verklaring opleiding HAN Bedrijfskunde
+## Privacyverklaring opleiding HAN Bedrijfskunde
 
 De identiteit en de contactgegevens van de verwerkingsverantwoordelijke en, in voorkomend geval, van uw vertegenwoordiger in de EU;
 De contactgegevens van de FG als u die heeft.
