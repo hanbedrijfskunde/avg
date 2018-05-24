@@ -27,7 +27,7 @@ In sommige gevallen kan aan een andere persoon toegang worden verleend. Deze per
 *Auditproces ontwerpen*
 
 ### Bewaartermijn van de gegevens.
-Binnen de HAN geldt een bewaartermijn van 2 jaar voor toetsmateriaal en dezelfde termijn wordt gehanteerd voor het materiaal dat binnen BKMoodle door een student wordt achtergelaten.
+Binnen de HAN geldt een bewaartermijn van 2 jaar voor toetsmateriaal en dezelfde termijn wordt gehanteerd voor het materiaal dat binnen BKMoodle door een student wordt achtergelaten. De bewaartermijn van persoonsgegevens is conform de regels van de HAN.
 
 ### De rechten van de betrokkene
 *Rachid*
