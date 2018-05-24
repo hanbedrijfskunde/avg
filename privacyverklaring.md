@@ -3,7 +3,7 @@ Inspiratie:[Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl/n
 ## Privacyverklaring opleiding HAN Bedrijfskunde
 
 ### Identiteit en contactgegevens verwerkingsverantwoordelijke
-<De contactgegevens van de FG >> Bespreken met Danny>
+<De contactgegevens van de FG : Bespreken met Danny>
 
 ### De doeleinden en rechtsgrond van de verwerking.
 De door de student verschafte persoonsgegevens dienen uitsluitend ter registratie van:
