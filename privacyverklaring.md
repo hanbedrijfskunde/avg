@@ -14,7 +14,7 @@ De door de student verschafte persoonsgegevens dienen uitsluitend ter registrati
 
 en de communicatie hierover met de betreffende student.
 
-De data zal tevens worden gebruikt voor kwaliteitsmetingen of onderzoek. Echter in dat geval zal de dataset worden ontdaan van persoonsgebonden gegevens (anonimisering).
+De data zal tevens worden gebruikt voor kwaliteitsmeting of onderzoek. Echter in dat geval zal de dataset worden ontdaan van persoonsgebonden gegevens (anonimisering).
 
 ### Ontvangers van de persoonsgegevens.
 Alleen direct betrokkenen bij het onderwijsproces hebben algemene toegang tot de persoonsgegevens:
