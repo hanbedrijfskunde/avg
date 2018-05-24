@@ -1,4 +1,4 @@
-Inspiratie:[Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-nieuwe-europese-privacywetgeving/rechten-van-betrokkenen)
+Inspiratie: [Autoriteit Persoonsgegevens](https://autoriteitpersoonsgegevens.nl/nl/onderwerpen/avg-nieuwe-europese-privacywetgeving/rechten-van-betrokkenen)
 
 ## Privacyverklaring opleiding HAN Bedrijfskunde
 
